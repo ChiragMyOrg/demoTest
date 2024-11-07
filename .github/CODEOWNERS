@@ -1,0 +1,5 @@
+*.md @ac-chiragmalik
+
+*.txt @ac-chiragmalik
+
+/docs/ @ChiragMyOrg/cm_team
